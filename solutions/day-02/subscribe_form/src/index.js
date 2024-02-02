@@ -17,7 +17,8 @@ const appStyle = {
   justifyContent: "center",
   height: " 30vh",
   width: "100vh",
-  margin: "30vh",
+  margin: "auto",
+  marginTop: "30vh",
   border: "2px solid gray",
   borderRadius: "10px",
 };
